@@ -1,0 +1,1 @@
+Here are the files which were used to train the SVM classifier as well as some logs of the training processes
