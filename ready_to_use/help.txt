@@ -1,2 +1,1 @@
-You may execute app.py or the itw_light_split_app.exe which was compiled using .pkl files after training on the light version of "In the wild" dataset.
-To compile, ensure you have the needed dependencies, then run "pyinstaller --one-file app.py" from this directory
+To compile, ensure you have the needed dependencies, then run "pyinstaller --one-file app.py" from this directory. It will create an app which uses the model trained on the lightweight version of the "In-the-Wild" dataset
