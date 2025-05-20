@@ -1,0 +1,13 @@
+Time for preparing datasets (seconds): 49.27620150000439
+Unique classes in y_train: [0 1]
+Size of X: (3200, 13)
+Size of y: (3200,)
+Size of X_train: (2560, 13)
+Size of X_test: (640, 13)
+Size of y_train: (2560,)
+Size of y_test: (640,)
+Accuracy: 0.95
+Confusion Matrix:
+[[391   9]
+ [ 23 217]]
+Time for training (seconds): 0.5776011000125436
